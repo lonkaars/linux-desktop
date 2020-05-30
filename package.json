@@ -1,0 +1,19 @@
+{
+  "name": "linux-desktop",
+  "version": "1.0.2",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "linux",
+    "desktop",
+    "entry"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "find": "^0.3.0"
+  }
+}
