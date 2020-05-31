@@ -1,5 +1,7 @@
 # linux-desktop
 
+![npm](https://img.shields.io/npm/v/linux-desktop)
+
 This is a module that indexes .desktop files on linux, and then allows you to query them using js. It also converts them to JSON, so
 
 ```ini
